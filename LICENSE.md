@@ -1,4 +1,4 @@
-# 
+# top nft sniper bot | trailing-stop + take-profit is the best nft sniper bot, featuring trailing-stop and take-profit. Fast, smart, and optimized for NFT trading on marketplaces
 
 
 
